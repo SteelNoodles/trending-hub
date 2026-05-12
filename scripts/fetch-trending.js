@@ -532,7 +532,7 @@ async function main() {
     fetchInstagramTrends(),
     fetchZhihu(rssHub),
     fetchBaidu(),
-    fetchToutiao()
+    fetchYouTubeTrends(rssHub),
   ]);
   
   const data = {
@@ -543,7 +543,7 @@ async function main() {
       instagram: { name: 'Instagram', icon: '📷', items: instagram },
       zhihu: { name: '知乎', icon: '💡', items: zhihu },
       baidu: { name: '百度热搜', icon: '🔍', items: baidu },
-      toutiao: { name: '今日头条', icon: '📰', items: toutiao }
+      toutiao: { name: 'YouTube', icon: '📰', items: toutiao }
     }
   };
   

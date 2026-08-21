@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T21:30:57.900Z",
+  "lastUpdated": "2026-08-21T22:31:46.400Z",
   "platforms": {
     "twitter": {
       "name": "X (Twitter)",
@@ -21,8 +21,8 @@
         },
         {
           "rank": 3,
-          "title": "#الاتحاد_القادسيه",
-          "url": "https://twitter.com/search?q=%23%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF_%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D9%87",
+          "title": "الاتحاد",
+          "url": "https://twitter.com/search?q=%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF",
           "hot": "",
           "platform": "twitter"
         },
@@ -35,15 +35,15 @@
         },
         {
           "rank": 5,
-          "title": "#ERZvGS",
-          "url": "https://twitter.com/search?q=%23ERZvGS",
+          "title": "#ARSCOV",
+          "url": "https://twitter.com/search?q=%23ARSCOV",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 6,
-          "title": "#ARSCOV",
-          "url": "https://twitter.com/search?q=%23ARSCOV",
+          "title": "#ERZvGS",
+          "url": "https://twitter.com/search?q=%23ERZvGS",
           "hot": "",
           "platform": "twitter"
         },
@@ -56,155 +56,155 @@
         },
         {
           "rank": 8,
-          "title": "Klay",
-          "url": "https://twitter.com/search?q=Klay",
+          "title": "#الرقابه_تعرقل_صفقات_النصر",
+          "url": "https://twitter.com/search?q=%23%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D9%87_%D8%AA%D8%B9%D8%B1%D9%82%D9%84_%D8%B5%D9%81%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 9,
-          "title": "Odegaard",
-          "url": "https://twitter.com/search?q=Odegaard",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 10,
-          "title": "Saka",
-          "url": "https://twitter.com/search?q=Saka",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 11,
-          "title": "Vouch",
-          "url": "https://twitter.com/search?q=Vouch",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 12,
-          "title": "Kai Havertz",
-          "url": "https://twitter.com/search?q=Kai%20Havertz",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 13,
-          "title": "Barış",
-          "url": "https://twitter.com/search?q=Bar%C4%B1%C5%9F",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 14,
-          "title": "ツォリス",
-          "url": "https://twitter.com/search?q=%E3%83%84%E3%82%A9%E3%83%AA%E3%82%B9",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 15,
-          "title": "Lampard",
-          "url": "https://twitter.com/search?q=Lampard",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 16,
           "title": "限定オリジナルPV",
           "url": "https://twitter.com/search?q=%E9%99%90%E5%AE%9A%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%ABPV",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 17,
+          "rank": 10,
+          "title": "Klay",
+          "url": "https://twitter.com/search?q=Klay",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 11,
           "title": "人気声優",
           "url": "https://twitter.com/search?q=%E4%BA%BA%E6%B0%97%E5%A3%B0%E5%84%AA",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 18,
+          "rank": 12,
+          "title": "Vouch",
+          "url": "https://twitter.com/search?q=Vouch",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 13,
           "title": "全話無料",
           "url": "https://twitter.com/search?q=%E5%85%A8%E8%A9%B1%E7%84%A1%E6%96%99",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 19,
+          "rank": 14,
+          "title": "Odegaard",
+          "url": "https://twitter.com/search?q=Odegaard",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 15,
+          "title": "Saka",
+          "url": "https://twitter.com/search?q=Saka",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 16,
+          "title": "Barış",
+          "url": "https://twitter.com/search?q=Bar%C4%B1%C5%9F",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 17,
+          "title": "Kai Havertz",
+          "url": "https://twitter.com/search?q=Kai%20Havertz",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 18,
           "title": "Sinaloa",
           "url": "https://twitter.com/search?q=Sinaloa",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 20,
-          "title": "Erzurum",
-          "url": "https://twitter.com/search?q=Erzurum",
+          "rank": 19,
+          "title": "Lampard",
+          "url": "https://twitter.com/search?q=Lampard",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "title": "Rocha Moya",
           "url": "https://twitter.com/search?q=Rocha%20Moya",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 21,
+          "title": "ツォリス",
+          "url": "https://twitter.com/search?q=%E3%83%84%E3%82%A9%E3%83%AA%E3%82%B9",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 22,
+          "title": "Madueke",
+          "url": "https://twitter.com/search?q=Madueke",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 23,
           "title": "Victor Osimhen",
           "url": "https://twitter.com/search?q=Victor%20Osimhen",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 23,
-          "title": "ارسنال",
-          "url": "https://twitter.com/search?q=%D8%A7%D8%B1%D8%B3%D9%86%D8%A7%D9%84",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
           "rank": 24,
-          "title": "Sara",
-          "url": "https://twitter.com/search?q=Sara",
+          "title": "Erzurum",
+          "url": "https://twitter.com/search?q=Erzurum",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 25,
-          "title": "Premier League",
-          "url": "https://twitter.com/search?q=Premier%20League",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 26,
-          "title": "ハヴァーツ",
-          "url": "https://twitter.com/search?q=%E3%83%8F%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%84",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 27,
-          "title": "جورج",
-          "url": "https://twitter.com/search?q=%D8%AC%D9%88%D8%B1%D8%AC",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 28,
           "title": "Clara",
           "url": "https://twitter.com/search?q=Clara",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 26,
+          "title": "Premier League",
+          "url": "https://twitter.com/search?q=Premier%20League",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 27,
+          "title": "ارسنال",
+          "url": "https://twitter.com/search?q=%D8%A7%D8%B1%D8%B3%D9%86%D8%A7%D9%84",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 28,
+          "title": "Demar",
+          "url": "https://twitter.com/search?q=Demar",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 29,
-          "title": "LINGORM ILF EP10",
-          "url": "https://twitter.com/search?q=LINGORM%20ILF%20EP10",
+          "title": "Sara",
+          "url": "https://twitter.com/search?q=Sara",
           "hot": "",
           "platform": "twitter"
         },
@@ -225,14 +225,14 @@
           "rank": 1,
           "title": "《黑神话：钟馗》15分钟实机演示",
           "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-          "hot": "963万播放",
+          "hot": "964万播放",
           "platform": "bilibili"
         },
         {
           "rank": 2,
           "title": "我这一生最大的罪，是把人写成了妖……",
           "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-          "hot": "1055万播放",
+          "hot": "1057万播放",
           "platform": "bilibili"
         },
         {
@@ -246,7 +246,7 @@
           "rank": 4,
           "title": "《下一个是谁》第七季（3）",
           "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-          "hot": "154万播放",
+          "hot": "155万播放",
           "platform": "bilibili"
         },
         {
@@ -274,21 +274,21 @@
           "rank": 8,
           "title": "\"复活吧！我的（ ）\"",
           "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-          "hot": "92万播放",
+          "hot": "97万播放",
           "platform": "bilibili"
         },
         {
           "rank": 9,
           "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
           "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-          "hot": "430万播放",
+          "hot": "431万播放",
           "platform": "bilibili"
         },
         {
           "rank": 10,
           "title": "当朋友总用奇怪的皮肤和你一起玩...",
           "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
-          "hot": "386万播放",
+          "hot": "387万播放",
           "platform": "bilibili"
         },
         {
@@ -309,21 +309,21 @@
           "rank": 13,
           "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
           "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-          "hot": "656万播放",
+          "hot": "657万播放",
           "platform": "bilibili"
         },
         {
           "rank": 14,
           "title": "知道为啥这乐队没主唱了吧",
           "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
-          "hot": "409万播放",
+          "hot": "410万播放",
           "platform": "bilibili"
         },
         {
           "rank": 15,
           "title": "停更7年，我又以经典的方式玩MC",
           "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-          "hot": "221万播放",
+          "hot": "222万播放",
           "platform": "bilibili"
         },
         {
@@ -337,7 +337,7 @@
           "rank": 17,
           "title": "举手之劳 亦是人间微光",
           "url": "https://www.bilibili.com/video/BV1akbY69ECQ",
-          "hot": "377万播放",
+          "hot": "378万播放",
           "platform": "bilibili"
         },
         {
@@ -358,7 +358,7 @@
           "rank": 20,
           "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
           "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
-          "hot": "144万播放",
+          "hot": "145万播放",
           "platform": "bilibili"
         }
       ]
@@ -604,8 +604,8 @@
         },
         {
           "rank": 13,
-          "title": "男子被反锁在新能源汽车后备箱5小时",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%8F%8D%E9%94%81%E5%9C%A8%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%90%8E%E5%A4%87%E7%AE%B15%E5%B0%8F%E6%97%B6",
+          "title": "女子55元捡漏一万四项链被要求退款",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9055%E5%85%83%E6%8D%A1%E6%BC%8F%E4%B8%80%E4%B8%87%E5%9B%9B%E9%A1%B9%E9%93%BE%E8%A2%AB%E8%A6%81%E6%B1%82%E9%80%80%E6%AC%BE",
           "hot": "",
           "platform": "baidu"
         },
@@ -632,36 +632,36 @@
         },
         {
           "rank": 17,
-          "title": "女子55元捡漏一万四项链被要求退款",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%9055%E5%85%83%E6%8D%A1%E6%BC%8F%E4%B8%80%E4%B8%87%E5%9B%9B%E9%A1%B9%E9%93%BE%E8%A2%AB%E8%A6%81%E6%B1%82%E9%80%80%E6%AC%BE",
+          "title": "男子被反锁在新能源汽车后备箱5小时",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%8F%8D%E9%94%81%E5%9C%A8%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E5%90%8E%E5%A4%87%E7%AE%B15%E5%B0%8F%E6%97%B6",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 18,
-          "title": "男子被骗近800万还被骗子嘲讽",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E8%BF%91800%E4%B8%87%E8%BF%98%E8%A2%AB%E9%AA%97%E5%AD%90%E5%98%B2%E8%AE%BD",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 19,
-          "title": "李光洁：演员哪敢随便改剧本",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%89%E6%B4%81%EF%BC%9A%E6%BC%94%E5%91%98%E5%93%AA%E6%95%A2%E9%9A%8F%E4%BE%BF%E6%94%B9%E5%89%A7%E6%9C%AC",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 20,
           "title": "机器人离服务“一老一小”还有多远",
           "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A6%BB%E6%9C%8D%E5%8A%A1%E2%80%9C%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F%E2%80%9D%E8%BF%98%E6%9C%89%E5%A4%9A%E8%BF%9C",
           "hot": "",
           "platform": "baidu"
         },
         {
+          "rank": 19,
+          "title": "遭船撞击溺亡母亲凌晨出海为赶早市",
+          "url": "https://www.baidu.com/s?wd=%E9%81%AD%E8%88%B9%E6%92%9E%E5%87%BB%E6%BA%BA%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%87%8C%E6%99%A8%E5%87%BA%E6%B5%B7%E4%B8%BA%E8%B5%B6%E6%97%A9%E5%B8%82",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
+          "rank": 20,
+          "title": "李光洁：演员哪敢随便改剧本",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%85%89%E6%B4%81%EF%BC%9A%E6%BC%94%E5%91%98%E5%93%AA%E6%95%A2%E9%9A%8F%E4%BE%BF%E6%94%B9%E5%89%A7%E6%9C%AC",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
           "rank": 21,
-          "title": "武汉市委秘书长曾晟被查",
-          "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E6%B1%89%E5%B8%82%E5%A7%94%E7%A7%98%E4%B9%A6%E9%95%BF%E6%9B%BE%E6%99%9F%E8%A2%AB%E6%9F%A5",
+          "title": "阿云嘎笑到这种程度已经是痛苦了",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E4%BA%91%E5%98%8E%E7%AC%91%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E5%B7%B2%E7%BB%8F%E6%98%AF%E7%97%9B%E8%8B%A6%E4%BA%86",
           "hot": "",
           "platform": "baidu"
         },
@@ -688,8 +688,8 @@
         },
         {
           "rank": 25,
-          "title": "瑞典一学校发生袭击事件 多人受伤",
-          "url": "https://www.baidu.com/s?wd=%E7%91%9E%E5%85%B8%E4%B8%80%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B6%20%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4",
+          "title": "欢子被批摆烂",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A2%E5%AD%90%E8%A2%AB%E6%89%B9%E6%91%86%E7%83%82",
           "hot": "",
           "platform": "baidu"
         },
@@ -702,15 +702,15 @@
         },
         {
           "rank": 27,
-          "title": "阿云嘎笑到这种程度已经是痛苦了",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E4%BA%91%E5%98%8E%E7%AC%91%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E5%B7%B2%E7%BB%8F%E6%98%AF%E7%97%9B%E8%8B%A6%E4%BA%86",
+          "title": "男子被骗近800万还被骗子嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%A2%AB%E9%AA%97%E8%BF%91800%E4%B8%87%E8%BF%98%E8%A2%AB%E9%AA%97%E5%AD%90%E5%98%B2%E8%AE%BD",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 28,
-          "title": "中国U17女足被抽签淘汰",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B3%E8%A2%AB%E6%8A%BD%E7%AD%BE%E6%B7%98%E6%B1%B0",
+          "title": "重庆市原副市长江敦涛被公诉",
+          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%B8%82%E5%8E%9F%E5%89%AF%E5%B8%82%E9%95%BF%E6%B1%9F%E6%95%A6%E6%B6%9B%E8%A2%AB%E5%85%AC%E8%AF%89",
           "hot": "",
           "platform": "baidu"
         },

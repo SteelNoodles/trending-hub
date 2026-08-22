@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T15:28:09.411Z",
+  "lastUpdated": "2026-08-22T15:50:35.280Z",
   "platforms": {
     "twitter": {
       "name": "X (Twitter)",
@@ -28,15 +28,15 @@
         },
         {
           "rank": 4,
-          "title": "Man U",
-          "url": "https://twitter.com/search?q=Man%20U",
+          "title": "#SixTONESANN",
+          "url": "https://twitter.com/search?q=%23SixTONESANN",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 5,
-          "title": "Dorgu",
-          "url": "https://twitter.com/search?q=Dorgu",
+          "title": "Man U",
+          "url": "https://twitter.com/search?q=Man%20U",
           "hot": "",
           "platform": "twitter"
         },
@@ -49,8 +49,8 @@
         },
         {
           "rank": 7,
-          "title": "Maguire",
-          "url": "https://twitter.com/search?q=Maguire",
+          "title": "#アナザースカイ",
+          "url": "https://twitter.com/search?q=%23%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC%E3%82%B9%E3%82%AB%E3%82%A4",
           "hot": "",
           "platform": "twitter"
         },
@@ -63,155 +63,155 @@
         },
         {
           "rank": 9,
-          "title": "#HULMUN",
-          "url": "https://twitter.com/search?q=%23HULMUN",
+          "title": "#BLEACH_anime",
+          "url": "https://twitter.com/search?q=%23BLEACH_anime",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 10,
-          "title": "Rashford",
-          "url": "https://twitter.com/search?q=Rashford",
+          "title": "Maguire",
+          "url": "https://twitter.com/search?q=Maguire",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 11,
-          "title": "Tielemans",
-          "url": "https://twitter.com/search?q=Tielemans",
+          "title": "Dorgu",
+          "url": "https://twitter.com/search?q=Dorgu",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 12,
-          "title": "#アナザースカイ",
-          "url": "https://twitter.com/search?q=%23%E3%82%A2%E3%83%8A%E3%82%B6%E3%83%BC%E3%82%B9%E3%82%AB%E3%82%A4",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 13,
-          "title": "#土ドラ告白",
-          "url": "https://twitter.com/search?q=%23%E5%9C%9F%E3%83%89%E3%83%A9%E5%91%8A%E7%99%BD",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 14,
           "title": "PONDPHUWIN SOUL ODYSSEY",
           "url": "https://twitter.com/search?q=PONDPHUWIN%20SOUL%20ODYSSEY",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 13,
+          "title": "Tielemans",
+          "url": "https://twitter.com/search?q=Tielemans",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 14,
+          "title": "Rashford",
+          "url": "https://twitter.com/search?q=Rashford",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 15,
-          "title": "エフフォーリア",
-          "url": "https://twitter.com/search?q=%E3%82%A8%E3%83%95%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%A2",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 16,
-          "title": "Shaw",
-          "url": "https://twitter.com/search?q=Shaw",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 17,
-          "title": "サトノレーヴ",
-          "url": "https://twitter.com/search?q=%E3%82%B5%E3%83%88%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%B4",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 18,
-          "title": "اليونايتد",
-          "url": "https://twitter.com/search?q=%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 19,
-          "title": "ユナイテッド",
-          "url": "https://twitter.com/search?q=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 20,
-          "title": "Cunha",
-          "url": "https://twitter.com/search?q=Cunha",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 21,
           "title": "THE EDGE OF HORIZON EP10",
           "url": "https://twitter.com/search?q=THE%20EDGE%20OF%20HORIZON%20EP10",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 22,
+          "rank": 16,
           "title": "Sant Rampal Ji Maharaj",
           "url": "https://twitter.com/search?q=Sant%20Rampal%20Ji%20Maharaj",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 23,
-          "title": "エピファネイア",
-          "url": "https://twitter.com/search?q=%E3%82%A8%E3%83%94%E3%83%95%E3%82%A1%E3%83%8D%E3%82%A4%E3%82%A2",
+          "rank": 17,
+          "title": "室井さん",
+          "url": "https://twitter.com/search?q=%E5%AE%A4%E4%BA%95%E3%81%95%E3%82%93",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 24,
-          "title": "هال سيتي",
-          "url": "https://twitter.com/search?q=%D9%87%D8%A7%D9%84%20%D8%B3%D9%8A%D8%AA%D9%8A",
+          "rank": 18,
+          "title": "エフフォーリア",
+          "url": "https://twitter.com/search?q=%E3%82%A8%E3%83%95%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%A2",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 25,
-          "title": "LINGORM PRESENTER MEGA WE CARE",
-          "url": "https://twitter.com/search?q=LINGORM%20PRESENTER%20MEGA%20WE%20CARE",
+          "rank": 19,
+          "title": "Shaw",
+          "url": "https://twitter.com/search?q=Shaw",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 26,
-          "title": "レインボーブリッジ封鎖",
-          "url": "https://twitter.com/search?q=%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E5%B0%81%E9%8E%96",
+          "rank": 20,
+          "title": "Balde",
+          "url": "https://twitter.com/search?q=Balde",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 27,
+          "rank": 21,
+          "title": "月島さん",
+          "url": "https://twitter.com/search?q=%E6%9C%88%E5%B3%B6%E3%81%95%E3%82%93",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 22,
           "title": "THE FIRE ACCEPTING LOVE",
           "url": "https://twitter.com/search?q=THE%20FIRE%20ACCEPTING%20LOVE",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 23,
+          "title": "サトノレーヴ",
+          "url": "https://twitter.com/search?q=%E3%82%B5%E3%83%88%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%B4",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 24,
+          "title": "اليونايتد",
+          "url": "https://twitter.com/search?q=%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 25,
+          "title": "和久さん",
+          "url": "https://twitter.com/search?q=%E5%92%8C%E4%B9%85%E3%81%95%E3%82%93",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 26,
+          "title": "ふっかさん",
+          "url": "https://twitter.com/search?q=%E3%81%B5%E3%81%A3%E3%81%8B%E3%81%95%E3%82%93",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 27,
+          "title": "ユナイテッド",
+          "url": "https://twitter.com/search?q=%E3%83%A6%E3%83%8A%E3%82%A4%E3%83%86%E3%83%83%E3%83%89",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 28,
-          "title": "كاريك",
-          "url": "https://twitter.com/search?q=%D9%83%D8%A7%D8%B1%D9%8A%D9%83",
+          "title": "Cunha",
+          "url": "https://twitter.com/search?q=Cunha",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 29,
-          "title": "Bruno Fernandes",
-          "url": "https://twitter.com/search?q=Bruno%20Fernandes",
+          "title": "LINGORM PRESENTER MEGA WE CARE",
+          "url": "https://twitter.com/search?q=LINGORM%20PRESENTER%20MEGA%20WE%20CARE",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 30,
-          "title": "室井さん",
-          "url": "https://twitter.com/search?q=%E5%AE%A4%E4%BA%95%E3%81%95%E3%82%93",
+          "title": "アニオリ",
+          "url": "https://twitter.com/search?q=%E3%82%A2%E3%83%8B%E3%82%AA%E3%83%AA",
           "hot": "",
           "platform": "twitter"
         }
@@ -225,35 +225,35 @@
           "rank": 1,
           "title": "《黑神话：钟馗》15分钟实机演示",
           "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
-          "hot": "1040万播放",
+          "hot": "1042万播放",
           "platform": "bilibili"
         },
         {
           "rank": 2,
           "title": "\"复活吧！我的（ ）\"",
           "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
-          "hot": "350万播放",
+          "hot": "353万播放",
           "platform": "bilibili"
         },
         {
           "rank": 3,
           "title": "《下一个是谁》第七季（3）",
           "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
-          "hot": "241万播放",
+          "hot": "243万播放",
           "platform": "bilibili"
         },
         {
           "rank": 4,
           "title": "我这一生最大的罪，是把人写成了妖……",
           "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
-          "hot": "1205万播放",
+          "hot": "1207万播放",
           "platform": "bilibili"
         },
         {
           "rank": 5,
           "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
           "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
-          "hot": "229万播放",
+          "hot": "230万播放",
           "platform": "bilibili"
         },
         {
@@ -265,100 +265,100 @@
         },
         {
           "rank": 7,
-          "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
-          "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-          "hot": "485万播放",
+          "title": "严肃观看儿子的历史记录",
+          "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+          "hot": "118万播放",
           "platform": "bilibili"
         },
         {
           "rank": 8,
-          "title": "我收容了100位粉丝到我的一辈子存档里！",
-          "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-          "hot": "293万播放",
+          "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
+          "url": "https://www.bilibili.com/video/BV1BS876oEwP",
+          "hot": "487万播放",
           "platform": "bilibili"
         },
         {
           "rank": 9,
-          "title": "当朋友总用奇怪的皮肤和你一起玩...",
-          "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
-          "hot": "432万播放",
+          "title": "我收容了100位粉丝到我的一辈子存档里！",
+          "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+          "hot": "295万播放",
           "platform": "bilibili"
         },
         {
           "rank": 10,
-          "title": "严肃观看儿子的历史记录",
-          "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-          "hot": "114万播放",
+          "title": "当朋友总用奇怪的皮肤和你一起玩...",
+          "url": "https://www.bilibili.com/video/BV1Hn8j6ZEqN",
+          "hot": "433万播放",
           "platform": "bilibili"
         },
         {
           "rank": 11,
           "title": "我的蚊子生病了，带它去看病",
           "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-          "hot": "573万播放",
+          "hot": "575万播放",
           "platform": "bilibili"
         },
         {
           "rank": 12,
           "title": "知道为啥这乐队没主唱了吧",
           "url": "https://www.bilibili.com/video/BV1vF8n6ZEUz",
-          "hot": "465万播放",
+          "hot": "466万播放",
           "platform": "bilibili"
         },
         {
           "rank": 13,
           "title": "《被他人开户了怎么办》",
           "url": "https://www.bilibili.com/video/BV1iY8j6SELm",
-          "hot": "83万播放",
+          "hot": "84万播放",
           "platform": "bilibili"
         },
         {
           "rank": 14,
           "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
           "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
-          "hot": "260万播放",
+          "hot": "263万播放",
           "platform": "bilibili"
         },
         {
           "rank": 15,
           "title": "《你咋开的车》",
           "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
-          "hot": "420万播放",
+          "hot": "422万播放",
           "platform": "bilibili"
         },
         {
           "rank": 16,
           "title": "渣渣辉没更新在干嘛：结婚！生小孩！",
           "url": "https://www.bilibili.com/video/BV1xz8M6CEdi",
-          "hot": "176万播放",
+          "hot": "177万播放",
           "platform": "bilibili"
         },
         {
           "rank": 17,
           "title": "停更7年，我又以经典的方式玩MC",
           "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-          "hot": "322万播放",
+          "hot": "324万播放",
           "platform": "bilibili"
         },
         {
           "rank": 18,
           "title": "终于走回深圳了｜挑战上海走回深圳最后一集！！",
           "url": "https://www.bilibili.com/video/BV1yh8w6RE4b",
-          "hot": "178万播放",
+          "hot": "179万播放",
           "platform": "bilibili"
         },
         {
           "rank": 19,
           "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
           "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-          "hot": "330万播放",
+          "hot": "331万播放",
           "platform": "bilibili"
         },
         {
           "rank": 20,
-          "title": "这几个片段大家可能都听过，但你们知道其实来源于同一首歌吗",
-          "url": "https://www.bilibili.com/video/BV1hY8g6xEwE",
-          "hot": "732万播放",
+          "title": "您好 没有为您拼命的义务 #乐意效劳",
+          "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
+          "hot": "157万播放",
           "platform": "bilibili"
         }
       ]
@@ -576,22 +576,22 @@
         },
         {
           "rank": 9,
-          "title": "中国男篮时隔12年再进U18亚洲杯决赛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%B6%E9%9A%9412%E5%B9%B4%E5%86%8D%E8%BF%9BU18%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 10,
           "title": "女兵放弃本科从军8年后军士专升本",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%85%B5%E6%94%BE%E5%BC%83%E6%9C%AC%E7%A7%91%E4%BB%8E%E5%86%9B8%E5%B9%B4%E5%90%8E%E5%86%9B%E5%A3%AB%E4%B8%93%E5%8D%87%E6%9C%AC",
           "hot": "",
           "platform": "baidu"
         },
         {
+          "rank": 10,
+          "title": "曾被狼群抚养12年的西班牙狼孩去世",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%BE%E8%A2%AB%E7%8B%BC%E7%BE%A4%E6%8A%9A%E5%85%BB12%E5%B9%B4%E7%9A%84%E8%A5%BF%E7%8F%AD%E7%89%99%E7%8B%BC%E5%AD%A9%E5%8E%BB%E4%B8%96",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
           "rank": 11,
-          "title": "4步手机自查身份证是否被别人绑定",
-          "url": "https://www.baidu.com/s?wd=4%E6%AD%A5%E6%89%8B%E6%9C%BA%E8%87%AA%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%98%AF%E5%90%A6%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%BB%91%E5%AE%9A",
+          "title": "中国男篮时隔12年再进U18亚洲杯决赛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%B6%E9%9A%9412%E5%B9%B4%E5%86%8D%E8%BF%9BU18%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B",
           "hot": "",
           "platform": "baidu"
         },
@@ -646,8 +646,8 @@
         },
         {
           "rank": 19,
-          "title": "两娃cos孙悟空刚出门就被狗撵回来",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A8%83cos%E5%AD%99%E6%82%9F%E7%A9%BA%E5%88%9A%E5%87%BA%E9%97%A8%E5%B0%B1%E8%A2%AB%E7%8B%97%E6%92%B5%E5%9B%9E%E6%9D%A5",
+          "title": "女孩试衣时被人掀开门帘 警方介入",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%AF%95%E8%A1%A3%E6%97%B6%E8%A2%AB%E4%BA%BA%E6%8E%80%E5%BC%80%E9%97%A8%E5%B8%98%20%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5",
           "hot": "",
           "platform": "baidu"
         },
@@ -674,15 +674,15 @@
         },
         {
           "rank": 23,
-          "title": "已有约1000家兰州拉面变为青海拉面",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%B2%E6%9C%89%E7%BA%A61000%E5%AE%B6%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E5%8F%98%E4%B8%BA%E9%9D%92%E6%B5%B7%E6%8B%89%E9%9D%A2",
+          "title": "两娃cos孙悟空刚出门就被狗撵回来",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%A8%83cos%E5%AD%99%E6%82%9F%E7%A9%BA%E5%88%9A%E5%87%BA%E9%97%A8%E5%B0%B1%E8%A2%AB%E7%8B%97%E6%92%B5%E5%9B%9E%E6%9D%A5",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 24,
-          "title": "女孩试衣时被人掀开门帘 警方介入",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%AF%95%E8%A1%A3%E6%97%B6%E8%A2%AB%E4%BA%BA%E6%8E%80%E5%BC%80%E9%97%A8%E5%B8%98%20%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5",
+          "title": "4步手机自查身份证是否被别人绑定",
+          "url": "https://www.baidu.com/s?wd=4%E6%AD%A5%E6%89%8B%E6%9C%BA%E8%87%AA%E6%9F%A5%E8%BA%AB%E4%BB%BD%E8%AF%81%E6%98%AF%E5%90%A6%E8%A2%AB%E5%88%AB%E4%BA%BA%E7%BB%91%E5%AE%9A",
           "hot": "",
           "platform": "baidu"
         },
@@ -723,8 +723,8 @@
         },
         {
           "rank": 30,
-          "title": "王菲给那英演唱会送花篮了",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%8F%B2%E7%BB%99%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%81%E8%8A%B1%E7%AF%AE%E4%BA%86",
+          "title": "剩饭剩菜不能直接喂猪了吗",
+          "url": "https://www.baidu.com/s?wd=%E5%89%A9%E9%A5%AD%E5%89%A9%E8%8F%9C%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%8E%A5%E5%96%82%E7%8C%AA%E4%BA%86%E5%90%97",
           "hot": "",
           "platform": "baidu"
         }

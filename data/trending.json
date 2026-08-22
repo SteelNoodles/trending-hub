@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:30:32.127Z",
+  "lastUpdated": "2026-08-22T20:55:08.140Z",
   "platforms": {
     "twitter": {
       "name": "X (Twitter)",
@@ -14,204 +14,204 @@
         },
         {
           "rank": 2,
-          "title": "震度5弱",
-          "url": "https://twitter.com/search?q=%E9%9C%87%E5%BA%A65%E5%BC%B1",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 3,
-          "title": "地震大丈夫",
-          "url": "https://twitter.com/search?q=%E5%9C%B0%E9%9C%87%E5%A4%A7%E4%B8%88%E5%A4%AB",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 4,
-          "title": "Spurs",
-          "url": "https://twitter.com/search?q=Spurs",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 5,
           "title": "#FBvKON",
           "url": "https://twitter.com/search?q=%23FBvKON",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 3,
+          "title": "震度5弱",
+          "url": "https://twitter.com/search?q=%E9%9C%87%E5%BA%A65%E5%BC%B1",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 4,
+          "title": "地震大丈夫",
+          "url": "https://twitter.com/search?q=%E5%9C%B0%E9%9C%87%E5%A4%A7%E4%B8%88%E5%A4%AB",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 5,
+          "title": "Spurs",
+          "url": "https://twitter.com/search?q=Spurs",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 6,
-          "title": "Brentford",
-          "url": "https://twitter.com/search?q=Brentford",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 7,
-          "title": "Tottenham",
-          "url": "https://twitter.com/search?q=Tottenham",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 8,
-          "title": "防災無線",
-          "url": "https://twitter.com/search?q=%E9%98%B2%E7%81%BD%E7%84%A1%E7%B7%9A",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 9,
           "title": "#سبتيات_الازرق",
           "url": "https://twitter.com/search?q=%23%D8%B3%D8%A8%D8%AA%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%B2%D8%B1%D9%82",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 10,
-          "title": "アラート",
-          "url": "https://twitter.com/search?q=%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88",
+          "rank": 7,
+          "title": "Brentford",
+          "url": "https://twitter.com/search?q=Brentford",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 11,
+          "rank": 8,
           "title": "#الاهلي_ابها",
           "url": "https://twitter.com/search?q=%23%D8%A7%D9%84%D8%A7%D9%87%D9%84%D9%8A_%D8%A7%D8%A8%D9%87%D8%A7",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 12,
+          "rank": 9,
           "title": "Canada",
           "url": "https://twitter.com/search?q=Canada",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 10,
+          "title": "Tottenham",
+          "url": "https://twitter.com/search?q=Tottenham",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 11,
+          "title": "Espanyol",
+          "url": "https://twitter.com/search?q=Espanyol",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 12,
+          "title": "防災無線",
+          "url": "https://twitter.com/search?q=%E9%98%B2%E7%81%BD%E7%84%A1%E7%B7%9A",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 13,
+          "title": "Vinicius",
+          "url": "https://twitter.com/search?q=Vinicius",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 14,
+          "title": "Ederson",
+          "url": "https://twitter.com/search?q=Ederson",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 15,
+          "title": "アラート",
+          "url": "https://twitter.com/search?q=%E3%82%A2%E3%83%A9%E3%83%BC%E3%83%88",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 16,
+          "title": "Kerem",
+          "url": "https://twitter.com/search?q=Kerem",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 17,
+          "title": "فالفيردي",
+          "url": "https://twitter.com/search?q=%D9%81%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D8%AF%D9%8A",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 18,
           "title": "地震びっくり",
           "url": "https://twitter.com/search?q=%E5%9C%B0%E9%9C%87%E3%81%B3%E3%81%A3%E3%81%8F%E3%82%8A",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 14,
+          "rank": 19,
           "title": "地震のせい",
           "url": "https://twitter.com/search?q=%E5%9C%B0%E9%9C%87%E3%81%AE%E3%81%9B%E3%81%84",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 15,
+          "rank": 20,
+          "title": "Valverde",
+          "url": "https://twitter.com/search?q=Valverde",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 21,
+          "title": "#BVBFCB",
+          "url": "https://twitter.com/search?q=%23BVBFCB",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 22,
+          "title": "Bellingham",
+          "url": "https://twitter.com/search?q=Bellingham",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 23,
+          "title": "اسبانيول",
+          "url": "https://twitter.com/search?q=%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D9%88%D9%84",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 24,
           "title": "ビックリ",
           "url": "https://twitter.com/search?q=%E3%83%93%E3%83%83%E3%82%AF%E3%83%AA",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 16,
-          "title": "地震警報",
-          "url": "https://twitter.com/search?q=%E5%9C%B0%E9%9C%87%E8%AD%A6%E5%A0%B1",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 17,
-          "title": "安全第一",
-          "url": "https://twitter.com/search?q=%E5%AE%89%E5%85%A8%E7%AC%AC%E4%B8%80",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 18,
-          "title": "De Zerbi",
-          "url": "https://twitter.com/search?q=De%20Zerbi",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 19,
-          "title": "茨城県南部",
-          "url": "https://twitter.com/search?q=%E8%8C%A8%E5%9F%8E%E7%9C%8C%E5%8D%97%E9%83%A8",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 20,
-          "title": "Orihime",
-          "url": "https://twitter.com/search?q=Orihime",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 21,
-          "title": "BLEACH",
-          "url": "https://twitter.com/search?q=BLEACH",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 22,
+          "rank": 25,
           "title": "Carney",
           "url": "https://twitter.com/search?q=Carney",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 23,
-          "title": "Balde",
-          "url": "https://twitter.com/search?q=Balde",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 24,
-          "title": "心臓バクバク",
-          "url": "https://twitter.com/search?q=%E5%BF%83%E8%87%93%E3%83%90%E3%82%AF%E3%83%90%E3%82%AF",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 25,
-          "title": "#BRETOT",
-          "url": "https://twitter.com/search?q=%23BRETOT",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
           "rank": 26,
-          "title": "#FBvKNY",
-          "url": "https://twitter.com/search?q=%23FBvKNY",
+          "title": "Orihime",
+          "url": "https://twitter.com/search?q=Orihime",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 27,
-          "title": "身の安全",
-          "url": "https://twitter.com/search?q=%E8%BA%AB%E3%81%AE%E5%AE%89%E5%85%A8",
+          "title": "Arda Guler",
+          "url": "https://twitter.com/search?q=Arda%20Guler",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 28,
-          "title": "Skriniar",
-          "url": "https://twitter.com/search?q=Skriniar",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 29,
           "title": "Big Wiz",
           "url": "https://twitter.com/search?q=Big%20Wiz",
           "hot": "",
           "platform": "twitter"
         },
         {
+          "rank": 29,
+          "title": "#FBvKNY",
+          "url": "https://twitter.com/search?q=%23FBvKNY",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
           "rank": 30,
-          "title": "Bergvall",
-          "url": "https://twitter.com/search?q=Bergvall",
+          "title": "Dumfries",
+          "url": "https://twitter.com/search?q=Dumfries",
           "hot": "",
           "platform": "twitter"
         }
@@ -274,14 +274,14 @@
           "rank": 8,
           "title": "我收容了100位粉丝到我的一辈子存档里！",
           "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
-          "hot": "304万播放",
+          "hot": "305万播放",
           "platform": "bilibili"
         },
         {
           "rank": 9,
           "title": "菜谱：洋葱炒蛋，家庭红烧鱼，蒜炒西兰花，辣椒炒猪腰，绿豆汤，从买菜开始，你在家随时可以复刻",
           "url": "https://www.bilibili.com/video/BV1BS876oEwP",
-          "hot": "500万播放",
+          "hot": "501万播放",
           "platform": "bilibili"
         },
         {
@@ -295,7 +295,7 @@
           "rank": 11,
           "title": "我的蚊子生病了，带它去看病",
           "url": "https://www.bilibili.com/video/BV1Dx876VEXe",
-          "hot": "582万播放",
+          "hot": "583万播放",
           "platform": "bilibili"
         },
         {
@@ -316,14 +316,14 @@
           "rank": 14,
           "title": "《被他人开户了怎么办》",
           "url": "https://www.bilibili.com/video/BV1iY8j6SELm",
-          "hot": "86万播放",
+          "hot": "87万播放",
           "platform": "bilibili"
         },
         {
           "rank": 15,
           "title": "您好 没有为您拼命的义务 #乐意效劳",
           "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
-          "hot": "174万播放",
+          "hot": "175万播放",
           "platform": "bilibili"
         },
         {
@@ -344,7 +344,7 @@
           "rank": 18,
           "title": "停更7年，我又以经典的方式玩MC",
           "url": "https://www.bilibili.com/video/BV1bQ8u6WEtT",
-          "hot": "333万播放",
+          "hot": "334万播放",
           "platform": "bilibili"
         },
         {
@@ -356,9 +356,9 @@
         },
         {
           "rank": 20,
-          "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
-          "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
-          "hot": "335万播放",
+          "title": "《 黑 神 话 咕 嘎 》终极典藏版",
+          "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
+          "hot": "144万播放",
           "platform": "bilibili"
         }
       ]
@@ -583,8 +583,8 @@
         },
         {
           "rank": 10,
-          "title": "追觅造车梦遇挫 员工被裁工位闲置",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E9%80%A0%E8%BD%A6%E6%A2%A6%E9%81%87%E6%8C%AB%20%E5%91%98%E5%B7%A5%E8%A2%AB%E8%A3%81%E5%B7%A5%E4%BD%8D%E9%97%B2%E7%BD%AE",
+          "title": "欢子 退赛",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A2%E5%AD%90%20%E9%80%80%E8%B5%9B",
           "hot": "",
           "platform": "baidu"
         },
@@ -611,22 +611,22 @@
         },
         {
           "rank": 14,
-          "title": "孙楠跳舞像老实人豁出去了",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%A5%A0%E8%B7%B3%E8%88%9E%E5%83%8F%E8%80%81%E5%AE%9E%E4%BA%BA%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86",
+          "title": "女孩试衣时被人掀开门帘 警方介入",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%AF%95%E8%A1%A3%E6%97%B6%E8%A2%AB%E4%BA%BA%E6%8E%80%E5%BC%80%E9%97%A8%E5%B8%98%20%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 15,
-          "title": "刘畊宏被灯光打没了",
-          "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E8%A2%AB%E7%81%AF%E5%85%89%E6%89%93%E6%B2%A1%E4%BA%86",
+          "title": "王传君的雷霆野人妆是自己设计的",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%8E%E4%BA%BA%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 16,
-          "title": "韩国明年2月开始禁止吃狗肉",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%98%8E%E5%B9%B42%E6%9C%88%E5%BC%80%E5%A7%8B%E7%A6%81%E6%AD%A2%E5%90%83%E7%8B%97%E8%82%89",
+          "title": "孙楠跳舞像老实人豁出去了",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%A5%A0%E8%B7%B3%E8%88%9E%E5%83%8F%E8%80%81%E5%AE%9E%E4%BA%BA%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86",
           "hot": "",
           "platform": "baidu"
         },
@@ -639,29 +639,29 @@
         },
         {
           "rank": 18,
-          "title": "女孩试衣时被人掀开门帘 警方介入",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%A9%E8%AF%95%E8%A1%A3%E6%97%B6%E8%A2%AB%E4%BA%BA%E6%8E%80%E5%BC%80%E9%97%A8%E5%B8%98%20%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5",
+          "title": "今年第20号台风简拉维生成",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%AC%AC20%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%AE%80%E6%8B%89%E7%BB%B4%E7%94%9F%E6%88%90",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 19,
-          "title": "王传君的雷霆野人妆是自己设计的",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E5%90%9B%E7%9A%84%E9%9B%B7%E9%9C%86%E9%87%8E%E4%BA%BA%E5%A6%86%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 20,
           "title": "《走马》夯爆了",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E8%B5%B0%E9%A9%AC%E3%80%8B%E5%A4%AF%E7%88%86%E4%BA%86",
           "hot": "",
           "platform": "baidu"
         },
         {
+          "rank": 20,
+          "title": "机器人田径100米赛跑终点撞墙",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%94%B0%E5%BE%84100%E7%B1%B3%E8%B5%9B%E8%B7%91%E7%BB%88%E7%82%B9%E6%92%9E%E5%A2%99",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
           "rank": 21,
-          "title": "男子调包订婚五金典当套现208万",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E8%B0%83%E5%8C%85%E8%AE%A2%E5%A9%9A%E4%BA%94%E9%87%91%E5%85%B8%E5%BD%93%E5%A5%97%E7%8E%B0208%E4%B8%87",
+          "title": "追觅造车梦遇挫 员工被裁工位闲置",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%BD%E8%A7%85%E9%80%A0%E8%BD%A6%E6%A2%A6%E9%81%87%E6%8C%AB%20%E5%91%98%E5%B7%A5%E8%A2%AB%E8%A3%81%E5%B7%A5%E4%BD%8D%E9%97%B2%E7%BD%AE",
           "hot": "",
           "platform": "baidu"
         },
@@ -681,8 +681,8 @@
         },
         {
           "rank": 24,
-          "title": "机器人跳拉丁有多惊艳",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E6%8B%89%E4%B8%81%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3",
+          "title": "中国版Moderna崛起",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%89%88Moderna%E5%B4%9B%E8%B5%B7",
           "hot": "",
           "platform": "baidu"
         },
@@ -709,22 +709,22 @@
         },
         {
           "rank": 28,
-          "title": "王菲给那英演唱会送花篮了",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%8F%B2%E7%BB%99%E9%82%A3%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E9%80%81%E8%8A%B1%E7%AF%AE%E4%BA%86",
+          "title": "刘畊宏被灯光打没了",
+          "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%95%8A%E5%AE%8F%E8%A2%AB%E7%81%AF%E5%85%89%E6%89%93%E6%B2%A1%E4%BA%86",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 29,
-          "title": "欢子 退赛",
-          "url": "https://www.baidu.com/s?wd=%E6%AC%A2%E5%AD%90%20%E9%80%80%E8%B5%9B",
+          "title": "《披哥》部落排名",
+          "url": "https://www.baidu.com/s?wd=%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B%E9%83%A8%E8%90%BD%E6%8E%92%E5%90%8D",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 30,
-          "title": "今年第20号台风简拉维生成",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E7%AC%AC20%E5%8F%B7%E5%8F%B0%E9%A3%8E%E7%AE%80%E6%8B%89%E7%BB%B4%E7%94%9F%E6%88%90",
+          "title": "韩国明年2月开始禁止吃狗肉",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%98%8E%E5%B9%B42%E6%9C%88%E5%BC%80%E5%A7%8B%E7%A6%81%E6%AD%A2%E5%90%83%E7%8B%97%E8%82%89",
           "hot": "",
           "platform": "baidu"
         }

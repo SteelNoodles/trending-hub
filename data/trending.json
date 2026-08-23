@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T22:29:16.076Z",
+  "lastUpdated": "2026-08-23T22:53:01.412Z",
   "platforms": {
     "twitter": {
       "name": "X (Twitter)",
@@ -220,7 +220,148 @@
     "bilibili": {
       "name": "Bilibili",
       "icon": "📺",
-      "items": []
+      "items": [
+        {
+          "rank": 1,
+          "title": "\"复活吧！我的（ ）\"",
+          "url": "https://www.bilibili.com/video/BV1G48M6XEBt",
+          "hot": "538万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 2,
+          "title": "严肃观看儿子的历史记录",
+          "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
+          "hot": "316万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 3,
+          "title": "《下一个是谁》第七季（3）",
+          "url": "https://www.bilibili.com/video/BV1yj8T6zE1N",
+          "hot": "300万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 4,
+          "title": "《崩坏：星穹铁道》千星纪游PV——「众声之外」",
+          "url": "https://www.bilibili.com/video/BV1Vj8K6DEFM",
+          "hot": "240万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 5,
+          "title": "您好 没有为您拼命的义务 #乐意效劳",
+          "url": "https://www.bilibili.com/video/BV1Kz8M6CEVz",
+          "hot": "228万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 6,
+          "title": "我收容了100位粉丝到我的一辈子存档里！",
+          "url": "https://www.bilibili.com/video/BV1DV8F6bEkz",
+          "hot": "489万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 7,
+          "title": "渣渣辉没更新在干嘛：结婚！生小孩！",
+          "url": "https://www.bilibili.com/video/BV1xz8M6CEdi",
+          "hot": "250万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 8,
+          "title": "《你咋开的车》",
+          "url": "https://www.bilibili.com/video/BV1dS8P6JEha",
+          "hot": "507万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 9,
+          "title": "人族少女混入兽人国，还引发了一场猫猫二当家和黄狗侠客的绝世大战",
+          "url": "https://www.bilibili.com/video/BV17N8P6HEVy",
+          "hot": "339万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 10,
+          "title": "《黑神话：钟馗》15分钟实机演示",
+          "url": "https://www.bilibili.com/video/BV1kS8H6VERt",
+          "hot": "1108万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 11,
+          "title": "护理：一把斩向死亡的温柔刀",
+          "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
+          "hot": "208万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 12,
+          "title": "🐧穷鬼鹅企🐧【B萌应援】",
+          "url": "https://www.bilibili.com/video/BV13R8F6hEjX",
+          "hot": "326万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 13,
+          "title": "《被他人开户了怎么办》",
+          "url": "https://www.bilibili.com/video/BV1iY8j6SELm",
+          "hot": "108万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 14,
+          "title": "【纪录片TV】大乾乾被撞成两半了……",
+          "url": "https://www.bilibili.com/video/BV1db8x6VE73",
+          "hot": "265万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 15,
+          "title": "吃蜘蛛眼就可以飞去末地外岛？！这个bug简直是艺术品！",
+          "url": "https://www.bilibili.com/video/BV1jM8P6EEDy",
+          "hot": "288万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 16,
+          "title": "我这一生最大的罪，是把人写成了妖……",
+          "url": "https://www.bilibili.com/video/BV1rHbY6MEB9",
+          "hot": "1352万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 17,
+          "title": "《 黑 神 话 咕 嘎 》终极典藏版",
+          "url": "https://www.bilibili.com/video/BV1wV8c6EEyx",
+          "hot": "177万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 18,
+          "title": "时隔一年！久违的整合包生存，缆车末日惊变 100 天！绝不烂尾！！！",
+          "url": "https://www.bilibili.com/video/BV1yM8A6bErQ",
+          "hot": "207万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 19,
+          "title": "我正在烧烤…哦不是..思考..",
+          "url": "https://www.bilibili.com/video/BV1RT816FEYe",
+          "hot": "333万播放",
+          "platform": "bilibili"
+        },
+        {
+          "rank": 20,
+          "title": "唐王随手捐闲钱，竟将阿萨拉扶成王！",
+          "url": "https://www.bilibili.com/video/BV1HQbf6CEG4",
+          "hot": "390万播放",
+          "platform": "bilibili"
+        }
+      ]
     },
     "instagram": {
       "name": "Instagram",
@@ -435,8 +576,8 @@
         },
         {
           "rank": 9,
-          "title": "唐师曾去世前白血球几乎为零",
-          "url": "https://www.baidu.com/s?wd=%E5%94%90%E5%B8%88%E6%9B%BE%E5%8E%BB%E4%B8%96%E5%89%8D%E7%99%BD%E8%A1%80%E7%90%83%E5%87%A0%E4%B9%8E%E4%B8%BA%E9%9B%B6",
+          "title": "嫦娥七号任务不满足发射条件",
+          "url": "https://www.baidu.com/s?wd=%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%BB%BB%E5%8A%A1%E4%B8%8D%E6%BB%A1%E8%B6%B3%E5%8F%91%E5%B0%84%E6%9D%A1%E4%BB%B6",
           "hot": "",
           "platform": "baidu"
         },
@@ -449,8 +590,8 @@
         },
         {
           "rank": 11,
-          "title": "嫦娥七号任务不满足发射条件",
-          "url": "https://www.baidu.com/s?wd=%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E4%BB%BB%E5%8A%A1%E4%B8%8D%E6%BB%A1%E8%B6%B3%E5%8F%91%E5%B0%84%E6%9D%A1%E4%BB%B6",
+          "title": "张韶涵演唱会突发不适插氧气管",
+          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E5%8F%91%E4%B8%8D%E9%80%82%E6%8F%92%E6%B0%A7%E6%B0%94%E7%AE%A1",
           "hot": "",
           "platform": "baidu"
         },
@@ -463,22 +604,22 @@
         },
         {
           "rank": 13,
-          "title": "普京拍桌",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%8B%8D%E6%A1%8C",
+          "title": "东风日产致歉",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7%E8%87%B4%E6%AD%89",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 14,
-          "title": "赵世勇、张忠当选中纪委副书记",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%96%E5%8B%87%E3%80%81%E5%BC%A0%E5%BF%A0%E5%BD%93%E9%80%89%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0",
+          "title": "李金铭李佳航同框 梦回《爱情公寓》",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%90%8C%E6%A1%86%20%E6%A2%A6%E5%9B%9E%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 15,
-          "title": "李金铭李佳航同框 梦回《爱情公寓》",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E9%87%91%E9%93%AD%E6%9D%8E%E4%BD%B3%E8%88%AA%E5%90%8C%E6%A1%86%20%E6%A2%A6%E5%9B%9E%E3%80%8A%E7%88%B1%E6%83%85%E5%85%AC%E5%AF%93%E3%80%8B",
+          "title": "著名战地记者唐师曾逝世",
+          "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85%E5%94%90%E5%B8%88%E6%9B%BE%E9%80%9D%E4%B8%96",
           "hot": "",
           "platform": "baidu"
         },
@@ -491,29 +632,29 @@
         },
         {
           "rank": 17,
-          "title": "东风日产致歉",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%9C%E9%A3%8E%E6%97%A5%E4%BA%A7%E8%87%B4%E6%AD%89",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 18,
-          "title": "著名战地记者唐师曾逝世",
-          "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E6%88%98%E5%9C%B0%E8%AE%B0%E8%80%85%E5%94%90%E5%B8%88%E6%9B%BE%E9%80%9D%E4%B8%96",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 19,
           "title": "凤凰组合决赛失利夺世锦赛亚军",
           "url": "https://www.baidu.com/s?wd=%E5%87%A4%E5%87%B0%E7%BB%84%E5%90%88%E5%86%B3%E8%B5%9B%E5%A4%B1%E5%88%A9%E5%A4%BA%E4%B8%96%E9%94%A6%E8%B5%9B%E4%BA%9A%E5%86%9B",
           "hot": "",
           "platform": "baidu"
         },
         {
+          "rank": 18,
+          "title": "买菜别光看卖相",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E8%8F%9C%E5%88%AB%E5%85%89%E7%9C%8B%E5%8D%96%E7%9B%B8",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
+          "rank": 19,
+          "title": "星巴克为什么不受宠了",
+          "url": "https://www.baidu.com/s?wd=%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8F%97%E5%AE%A0%E4%BA%86",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
           "rank": 20,
-          "title": "今年暑假 租车便宜得不像话",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%9A%91%E5%81%87%20%E7%A7%9F%E8%BD%A6%E4%BE%BF%E5%AE%9C%E5%BE%97%E4%B8%8D%E5%83%8F%E8%AF%9D",
+          "title": "唐师曾去世前白血球几乎为零",
+          "url": "https://www.baidu.com/s?wd=%E5%94%90%E5%B8%88%E6%9B%BE%E5%8E%BB%E4%B8%96%E5%89%8D%E7%99%BD%E8%A1%80%E7%90%83%E5%87%A0%E4%B9%8E%E4%B8%BA%E9%9B%B6",
           "hot": "",
           "platform": "baidu"
         },
@@ -526,29 +667,29 @@
         },
         {
           "rank": 22,
+          "title": "普京拍桌",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%8B%8D%E6%A1%8C",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
+          "rank": 23,
+          "title": "今年暑假 租车便宜得不像话",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%B9%B4%E6%9A%91%E5%81%87%20%E7%A7%9F%E8%BD%A6%E4%BE%BF%E5%AE%9C%E5%BE%97%E4%B8%8D%E5%83%8F%E8%AF%9D",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
+          "rank": 24,
           "title": "梁王组合世锦赛夺冠",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A4%BA%E5%86%A0",
           "hot": "",
           "platform": "baidu"
         },
         {
-          "rank": 23,
-          "title": "买菜别光看卖相",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%B0%E8%8F%9C%E5%88%AB%E5%85%89%E7%9C%8B%E5%8D%96%E7%9B%B8",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 24,
-          "title": "尹昉打戏太狠疯狂给辛芷蕾道歉",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E6%98%89%E6%89%93%E6%88%8F%E5%A4%AA%E7%8B%A0%E7%96%AF%E7%8B%82%E7%BB%99%E8%BE%9B%E8%8A%B7%E8%95%BE%E9%81%93%E6%AD%89",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
           "rank": 25,
-          "title": "救援队到处扛担架救助倒地机器人",
-          "url": "https://www.baidu.com/s?wd=%E6%95%91%E6%8F%B4%E9%98%9F%E5%88%B0%E5%A4%84%E6%89%9B%E6%8B%85%E6%9E%B6%E6%95%91%E5%8A%A9%E5%80%92%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "title": "赵世勇、张忠当选中纪委副书记",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%96%E5%8B%87%E3%80%81%E5%BC%A0%E5%BF%A0%E5%BD%93%E9%80%89%E4%B8%AD%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0",
           "hot": "",
           "platform": "baidu"
         },
@@ -561,29 +702,29 @@
         },
         {
           "rank": 27,
+          "title": "工作人员花式领走“累瘫”的机器人",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E8%8A%B1%E5%BC%8F%E9%A2%86%E8%B5%B0%E2%80%9C%E7%B4%AF%E7%98%AB%E2%80%9D%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
+          "rank": 28,
           "title": "山姆鸡蛋涨价 网友：幸好提前买了",
           "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E5%A7%86%E9%B8%A1%E8%9B%8B%E6%B6%A8%E4%BB%B7%20%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%B9%B8%E5%A5%BD%E6%8F%90%E5%89%8D%E4%B9%B0%E4%BA%86",
           "hot": "",
           "platform": "baidu"
         },
         {
-          "rank": 28,
-          "title": "张韶涵演唱会突发不适插氧气管",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%BC%94%E5%94%B1%E4%BC%9A%E7%AA%81%E5%8F%91%E4%B8%8D%E9%80%82%E6%8F%92%E6%B0%A7%E6%B0%94%E7%AE%A1",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
           "rank": 29,
-          "title": "最近总觉得累大概率是秋乏",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E8%BF%91%E6%80%BB%E8%A7%89%E5%BE%97%E7%B4%AF%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E7%A7%8B%E4%B9%8F",
+          "title": "列车上可以吃自助餐了",
+          "url": "https://www.baidu.com/s?wd=%E5%88%97%E8%BD%A6%E4%B8%8A%E5%8F%AF%E4%BB%A5%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E4%BA%86",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 30,
-          "title": "樊振东德甲新赛季开门红",
-          "url": "https://www.baidu.com/s?wd=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%BC%80%E9%97%A8%E7%BA%A2",
+          "title": "最近总觉得累大概率是秋乏",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E8%BF%91%E6%80%BB%E8%A7%89%E5%BE%97%E7%B4%AF%E5%A4%A7%E6%A6%82%E7%8E%87%E6%98%AF%E7%A7%8B%E4%B9%8F",
           "hot": "",
           "platform": "baidu"
         }

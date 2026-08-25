@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T18:52:06.887Z",
+  "lastUpdated": "2026-08-25T19:37:39.792Z",
   "platforms": {
     "twitter": {
       "name": "X (Twitter)",
@@ -7,211 +7,211 @@
       "items": [
         {
           "rank": 1,
+          "title": "Dolly",
+          "url": "https://twitter.com/search?q=Dolly",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 2,
+          "title": "#النصر_الاتفاق",
+          "url": "https://twitter.com/search?q=%23%D8%A7%D9%84%D9%86%D8%B5%D8%B1_%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 3,
           "title": "#skel",
           "url": "https://twitter.com/search?q=%23skel",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 2,
+          "rank": 4,
+          "title": "Jolene",
+          "url": "https://twitter.com/search?q=Jolene",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 5,
+          "title": "بينتو",
+          "url": "https://twitter.com/search?q=%D8%A8%D9%8A%D9%86%D8%AA%D9%88",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 6,
+          "title": "RIP Queen",
+          "url": "https://twitter.com/search?q=RIP%20Queen",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 7,
           "title": "#サカナ山口ANN",
           "url": "https://twitter.com/search?q=%23%E3%82%B5%E3%82%AB%E3%83%8A%E5%B1%B1%E5%8F%A3ANN",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 3,
-          "title": "#MrKillSeriesEP8",
-          "url": "https://twitter.com/search?q=%23MrKillSeriesEP8",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 4,
-          "title": "#大森元貴_灰色",
-          "url": "https://twitter.com/search?q=%23%E5%A4%A7%E6%A3%AE%E5%85%83%E8%B2%B4_%E7%81%B0%E8%89%B2",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 5,
-          "title": "#KontenjanıBol2ildışı",
-          "url": "https://twitter.com/search?q=%23Kontenjan%C4%B1Bol2ild%C4%B1%C5%9F%C4%B1",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 6,
+          "rank": 8,
           "title": "Delap",
           "url": "https://twitter.com/search?q=Delap",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 7,
-          "title": "Lake Ontario",
-          "url": "https://twitter.com/search?q=Lake%20Ontario",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 8,
-          "title": "Lake America",
-          "url": "https://twitter.com/search?q=Lake%20America",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
           "rank": 9,
-          "title": "Carlos Baleba",
-          "url": "https://twitter.com/search?q=Carlos%20Baleba",
+          "title": "I Will Always Love You",
+          "url": "https://twitter.com/search?q=I%20Will%20Always%20Love%20You",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 10,
-          "title": "Moscow",
-          "url": "https://twitter.com/search?q=Moscow",
+          "title": "رونالدو",
+          "url": "https://twitter.com/search?q=%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 11,
+          "title": "#MrKillSeriesEP8",
+          "url": "https://twitter.com/search?q=%23MrKillSeriesEP8",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 12,
           "title": "Jelly Roll",
           "url": "https://twitter.com/search?q=Jelly%20Roll",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 12,
-          "title": "BELIFT RESPECT ARTIST RIGHTS",
-          "url": "https://twitter.com/search?q=BELIFT%20RESPECT%20ARTIST%20RIGHTS",
+          "rank": 13,
+          "title": "سالم النجدي",
+          "url": "https://twitter.com/search?q=%D8%B3%D8%A7%D9%84%D9%85%20%D8%A7%D9%84%D9%86%D8%AC%D8%AF%D9%8A",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 13,
+          "rank": 14,
+          "title": "#大森元貴_灰色",
+          "url": "https://twitter.com/search?q=%23%E5%A4%A7%E6%A3%AE%E5%85%83%E8%B2%B4_%E7%81%B0%E8%89%B2",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 15,
+          "title": "Lake Ontario",
+          "url": "https://twitter.com/search?q=Lake%20Ontario",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 16,
+          "title": "Imagination Library",
+          "url": "https://twitter.com/search?q=Imagination%20Library",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 17,
+          "title": "Lake America",
+          "url": "https://twitter.com/search?q=Lake%20America",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 18,
+          "title": "حارس النصر",
+          "url": "https://twitter.com/search?q=%D8%AD%D8%A7%D8%B1%D8%B3%20%D8%A7%D9%84%D9%86%D8%B5%D8%B1",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 19,
+          "title": "Carlos Baleba",
+          "url": "https://twitter.com/search?q=Carlos%20Baleba",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 20,
           "title": "ÖlmektenBeter3Yaşında",
           "url": "https://twitter.com/search?q=%C3%96lmektenBeter3Ya%C5%9F%C4%B1nda",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 14,
+          "rank": 21,
+          "title": "Moscow",
+          "url": "https://twitter.com/search?q=Moscow",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 22,
+          "title": "Nodus Fall",
+          "url": "https://twitter.com/search?q=Nodus%20Fall",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 23,
+          "title": "SuçDeğil SusDosyası",
+          "url": "https://twitter.com/search?q=Su%C3%A7De%C4%9Fil%20SusDosyas%C4%B1",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 24,
+          "title": "First Hayden",
+          "url": "https://twitter.com/search?q=First%20Hayden",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 25,
+          "title": "BELIFT RESPECT ARTIST RIGHTS",
+          "url": "https://twitter.com/search?q=BELIFT%20RESPECT%20ARTIST%20RIGHTS",
+          "hot": "",
+          "platform": "twitter"
+        },
+        {
+          "rank": 26,
           "title": "Graciela Domínguez Nava",
           "url": "https://twitter.com/search?q=Graciela%20Dom%C3%ADnguez%20Nava",
           "hot": "",
           "platform": "twitter"
         },
         {
-          "rank": 15,
-          "title": "John Ratcliffe",
-          "url": "https://twitter.com/search?q=John%20Ratcliffe",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 16,
-          "title": "Gulf of Mexico",
-          "url": "https://twitter.com/search?q=Gulf%20of%20Mexico",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 17,
-          "title": "Milli Zafer Haftası",
-          "url": "https://twitter.com/search?q=Milli%20Zafer%20Haftas%C4%B1",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 18,
-          "title": "MILENA NO RIR",
-          "url": "https://twitter.com/search?q=MILENA%20NO%20RIR",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 19,
-          "title": "Starbase Louisiana",
-          "url": "https://twitter.com/search?q=Starbase%20Louisiana",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 20,
-          "title": "Mac mini",
-          "url": "https://twitter.com/search?q=Mac%20mini",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 21,
-          "title": "Welcome to Manchester United",
-          "url": "https://twitter.com/search?q=Welcome%20to%20Manchester%20United",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 22,
-          "title": "Dan Stevens",
-          "url": "https://twitter.com/search?q=Dan%20Stevens",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 23,
-          "title": "Love Destiny EP7",
-          "url": "https://twitter.com/search?q=Love%20Destiny%20EP7",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 24,
-          "title": "Mac Studio",
-          "url": "https://twitter.com/search?q=Mac%20Studio",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 25,
-          "title": "マイフリ",
-          "url": "https://twitter.com/search?q=%E3%83%9E%E3%82%A4%E3%83%95%E3%83%AA",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
-          "rank": 26,
-          "title": "UNBREAKABLE KNOT EP9",
-          "url": "https://twitter.com/search?q=UNBREAKABLE%20KNOT%20EP9",
-          "hot": "",
-          "platform": "twitter"
-        },
-        {
           "rank": 27,
-          "title": "RG陸ガン",
-          "url": "https://twitter.com/search?q=RG%E9%99%B8%E3%82%AC%E3%83%B3",
+          "title": "Queen of Country",
+          "url": "https://twitter.com/search?q=Queen%20of%20Country",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 28,
-          "title": "Poku",
-          "url": "https://twitter.com/search?q=Poku",
+          "title": "Tides of Annihilation",
+          "url": "https://twitter.com/search?q=Tides%20of%20Annihilation",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 29,
-          "title": "M5 Ultra",
-          "url": "https://twitter.com/search?q=M5%20Ultra",
+          "title": "Hoyoverse",
+          "url": "https://twitter.com/search?q=Hoyoverse",
           "hot": "",
           "platform": "twitter"
         },
         {
           "rank": 30,
-          "title": "Gamescom",
-          "url": "https://twitter.com/search?q=Gamescom",
+          "title": "Islands in the Stream",
+          "url": "https://twitter.com/search?q=Islands%20in%20the%20Stream",
           "hot": "",
           "platform": "twitter"
         }
@@ -225,35 +225,35 @@
           "rank": 1,
           "title": "王中王夺冠自战解说",
           "url": "https://www.bilibili.com/video/BV1PEhP6vERe",
-          "hot": "358万播放",
+          "hot": "359万播放",
           "platform": "bilibili"
         },
         {
           "rank": 2,
           "title": "护理：一把斩向死亡的温柔刀",
           "url": "https://www.bilibili.com/video/BV1Jv8p6kEJw",
-          "hot": "436万播放",
+          "hot": "437万播放",
           "platform": "bilibili"
         },
         {
           "rank": 3,
           "title": "《崩坏：星穹铁道》知更鸟•晴歌角色PV——「追赶风的方向」",
           "url": "https://www.bilibili.com/video/BV1oyhM6AETw",
-          "hot": "277万播放",
+          "hot": "278万播放",
           "platform": "bilibili"
         },
         {
           "rank": 4,
           "title": "贱谍过家家（8）",
           "url": "https://www.bilibili.com/video/BV1gLhK6LEcb",
-          "hot": "349万播放",
+          "hot": "351万播放",
           "platform": "bilibili"
         },
         {
           "rank": 5,
           "title": "严肃观看儿子的历史记录",
           "url": "https://www.bilibili.com/video/BV1Vy8r6JE9z",
-          "hot": "502万播放",
+          "hot": "503万播放",
           "platform": "bilibili"
         },
         {
@@ -274,7 +274,7 @@
           "rank": 8,
           "title": "⚡老牧师口音教学⚡",
           "url": "https://www.bilibili.com/video/BV1fA8m66EyX",
-          "hot": "303万播放",
+          "hot": "304万播放",
           "platform": "bilibili"
         },
         {
@@ -323,7 +323,7 @@
           "rank": 15,
           "title": "#新概念英语",
           "url": "https://www.bilibili.com/video/BV1or8e6TEfL",
-          "hot": "316万播放",
+          "hot": "317万播放",
           "platform": "bilibili"
         },
         {
@@ -344,21 +344,21 @@
           "rank": 18,
           "title": "325",
           "url": "https://www.bilibili.com/video/BV1Wq846oExx",
-          "hot": "123万播放",
+          "hot": "124万播放",
           "platform": "bilibili"
         },
         {
           "rank": 19,
           "title": "谁能坚持到最后？",
           "url": "https://www.bilibili.com/video/BV18XhP6GExJ",
-          "hot": "165万播放",
+          "hot": "167万播放",
           "platform": "bilibili"
         },
         {
           "rank": 20,
           "title": "抽象新闻：8月人类迷惑行为大赏（上）",
           "url": "https://www.bilibili.com/video/BV1CW8C66E5r",
-          "hot": "229万播放",
+          "hot": "230万播放",
           "platform": "bilibili"
         }
       ]
@@ -583,8 +583,8 @@
         },
         {
           "rank": 10,
-          "title": "幼儿园不得提前教拼音识字等小学内容",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%8D%E5%BE%97%E6%8F%90%E5%89%8D%E6%95%99%E6%8B%BC%E9%9F%B3%E8%AF%86%E5%AD%97%E7%AD%89%E5%B0%8F%E5%AD%A6%E5%86%85%E5%AE%B9",
+          "title": "贵州中元节震撼场面",
+          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%AD%E5%85%83%E8%8A%82%E9%9C%87%E6%92%BC%E5%9C%BA%E9%9D%A2",
           "hot": "",
           "platform": "baidu"
         },
@@ -604,8 +604,8 @@
         },
         {
           "rank": 13,
-          "title": "贵州中元节震撼场面",
-          "url": "https://www.baidu.com/s?wd=%E8%B4%B5%E5%B7%9E%E4%B8%AD%E5%85%83%E8%8A%82%E9%9C%87%E6%92%BC%E5%9C%BA%E9%9D%A2",
+          "title": "幼儿园不得提前教拼音识字等小学内容",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%8D%E5%BE%97%E6%8F%90%E5%89%8D%E6%95%99%E6%8B%BC%E9%9F%B3%E8%AF%86%E5%AD%97%E7%AD%89%E5%B0%8F%E5%AD%A6%E5%86%85%E5%AE%B9",
           "hot": "",
           "platform": "baidu"
         },
@@ -618,29 +618,29 @@
         },
         {
           "rank": 15,
-          "title": "赵丽颖突发身体不适 取消直播活动",
-          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AA%81%E5%8F%91%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%20%E5%8F%96%E6%B6%88%E7%9B%B4%E6%92%AD%E6%B4%BB%E5%8A%A8",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 16,
           "title": "市民问在家吃狗肉违法吗？深圳回复",
           "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E9%97%AE%E5%9C%A8%E5%AE%B6%E5%90%83%E7%8B%97%E8%82%89%E8%BF%9D%E6%B3%95%E5%90%97%EF%BC%9F%E6%B7%B1%E5%9C%B3%E5%9B%9E%E5%A4%8D",
           "hot": "",
           "platform": "baidu"
         },
         {
+          "rank": 16,
+          "title": "赵丽颖突发身体不适 取消直播活动",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AA%81%E5%8F%91%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%20%E5%8F%96%E6%B6%88%E7%9B%B4%E6%92%AD%E6%B4%BB%E5%8A%A8",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
           "rank": 17,
-          "title": "花2000住希尔顿 腿上出现大片红疹",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%B12000%E4%BD%8F%E5%B8%8C%E5%B0%94%E9%A1%BF%20%E8%85%BF%E4%B8%8A%E5%87%BA%E7%8E%B0%E5%A4%A7%E7%89%87%E7%BA%A2%E7%96%B9",
+          "title": "10名干部变身外卖骑手 14天跑1148单",
+          "url": "https://www.baidu.com/s?wd=10%E5%90%8D%E5%B9%B2%E9%83%A8%E5%8F%98%E8%BA%AB%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%2014%E5%A4%A9%E8%B7%911148%E5%8D%95",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 18,
-          "title": "10名干部变身外卖骑手 14天跑1148单",
-          "url": "https://www.baidu.com/s?wd=10%E5%90%8D%E5%B9%B2%E9%83%A8%E5%8F%98%E8%BA%AB%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%2014%E5%A4%A9%E8%B7%911148%E5%8D%95",
+          "title": "外国游客对台警察说“你是中国人”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%AF%B9%E5%8F%B0%E8%AD%A6%E5%AF%9F%E8%AF%B4%E2%80%9C%E4%BD%A0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D",
           "hot": "",
           "platform": "baidu"
         },
@@ -653,15 +653,15 @@
         },
         {
           "rank": 20,
-          "title": "自动驾驶违法 车企担责",
-          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BF%9D%E6%B3%95%20%E8%BD%A6%E4%BC%81%E6%8B%85%E8%B4%A3",
+          "title": "内蒙古乌兰察布突发山洪 已致4人遇难",
+          "url": "https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%20%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 21,
-          "title": "外国游客对台警察说“你是中国人”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%AF%B9%E5%8F%B0%E8%AD%A6%E5%AF%9F%E8%AF%B4%E2%80%9C%E4%BD%A0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E2%80%9D",
+          "title": "自动驾驶违法 车企担责",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%BF%9D%E6%B3%95%20%E8%BD%A6%E4%BC%81%E6%8B%85%E8%B4%A3",
           "hot": "",
           "platform": "baidu"
         },
@@ -688,43 +688,43 @@
         },
         {
           "rank": 25,
-          "title": "一般很难直接被机器人帅到 除非...",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E8%88%AC%E5%BE%88%E9%9A%BE%E7%9B%B4%E6%8E%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B8%85%E5%88%B0%20%E9%99%A4%E9%9D%9E...",
+          "title": "尹锡悦出庭作证：宣布戒严是因为天真",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%87%BA%E5%BA%AD%E4%BD%9C%E8%AF%81%EF%BC%9A%E5%AE%A3%E5%B8%83%E6%88%92%E4%B8%A5%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%A9%E7%9C%9F",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 26,
-          "title": "三台风 气候异常",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%89%E5%8F%B0%E9%A3%8E%20%E6%B0%94%E5%80%99%E5%BC%82%E5%B8%B8",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 27,
-          "title": "内蒙古乌兰察布突发山洪 已致4人遇难",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E8%92%99%E5%8F%A4%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%E7%AA%81%E5%8F%91%E5%B1%B1%E6%B4%AA%20%E5%B7%B2%E8%87%B44%E4%BA%BA%E9%81%87%E9%9A%BE",
-          "hot": "",
-          "platform": "baidu"
-        },
-        {
-          "rank": 28,
           "title": "高校允许学生带宠物上学引争议",
           "url": "https://www.baidu.com/s?wd=%E9%AB%98%E6%A0%A1%E5%85%81%E8%AE%B8%E5%AD%A6%E7%94%9F%E5%B8%A6%E5%AE%A0%E7%89%A9%E4%B8%8A%E5%AD%A6%E5%BC%95%E4%BA%89%E8%AE%AE",
           "hot": "",
           "platform": "baidu"
         },
         {
+          "rank": 27,
+          "title": "一般很难直接被机器人帅到 除非...",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E8%88%AC%E5%BE%88%E9%9A%BE%E7%9B%B4%E6%8E%A5%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B8%85%E5%88%B0%20%E9%99%A4%E9%9D%9E...",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
+          "rank": 28,
+          "title": "中印边界问题特别代表在京会晤",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%8D%B0%E8%BE%B9%E7%95%8C%E9%97%AE%E9%A2%98%E7%89%B9%E5%88%AB%E4%BB%A3%E8%A1%A8%E5%9C%A8%E4%BA%AC%E4%BC%9A%E6%99%A4",
+          "hot": "",
+          "platform": "baidu"
+        },
+        {
           "rank": 29,
-          "title": "美股芯片股多数上扬",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8A%E6%89%AC",
+          "title": "欢子工作室质问《披哥》",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A2%E5%AD%90%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%B4%A8%E9%97%AE%E3%80%8A%E6%8A%AB%E5%93%A5%E3%80%8B",
           "hot": "",
           "platform": "baidu"
         },
         {
           "rank": 30,
-          "title": "当地回应居民长期闻到异味身体不适",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%B1%85%E6%B0%91%E9%95%BF%E6%9C%9F%E9%97%BB%E5%88%B0%E5%BC%82%E5%91%B3%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82",
+          "title": "未开封水现蚂蚱 商家销毁问题水",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E5%BC%80%E5%B0%81%E6%B0%B4%E7%8E%B0%E8%9A%82%E8%9A%B1%20%E5%95%86%E5%AE%B6%E9%94%80%E6%AF%81%E9%97%AE%E9%A2%98%E6%B0%B4",
           "hot": "",
           "platform": "baidu"
         }
